@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻🌐 I am a climate scientist, currently interested in interpretable and physically-informed machine learning applications to climate data analysis.
+💻🌐 I am a climate scientist, interested in machine learning applications to climate data analysis.
 
 🌱 I’m currently learning about interpretable neural networks (where the NN is learning from, and is it for the right reasons?)
 
