@@ -15,7 +15,10 @@ Climate scientist by training. Ten years measuring uncertainty for the IPCC, the
 
 ### Research
 
-23 peer-reviewed publications on climate uncertainty quantification (incl. *Nature Climate Change*, *Nature Geoscience*), 4,000+ citations; IPCC AR6 Contributing Author. Full list on [Google Scholar](https://scholar.google.com/citations?user=RVqnXpAAAAAJ).
+- **23 peer-reviewed publications** on climate uncertainty quantification (incl. *Nature Climate Change*, *Nature Geoscience*)
+- **4,000+ citations**
+- **IPCC AR6 Contributing Author**
+- Full list on [Google Scholar](https://scholar.google.com/citations?user=RVqnXpAAAAAJ)
 
 ### Background
 
